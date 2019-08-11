@@ -1,0 +1,26 @@
+此目录下的数据为中国七大区绘制数据
+
+ChinaRegion_outline.json -- 中国按七大区划分
+
+CentralChina.json -- 华中地区
+CentralChina_outline.json -- 华中地区轮廓线
+
+EastChina.json -- 华东地区
+EastChina_outline.json -- 华东地区轮廓线
+
+Hebei&Beijing&Tianjin_outline.json -- 京津冀地区轮廓线
+
+NorthChina.json -- 华北地区
+NorthChina_outline.json -- 华北地区轮廓
+
+NortheastChina.json -- 东北地区
+NortheastChina_outline.json -- 东北地区轮廓线
+
+NorthwestChina.json -- 西北地区
+NorthwestChina_outline.json -- 西北地区轮廓线
+
+SouthernChina.json -- 华南地区
+SouthernChina_outline.json -- 华南地区轮廓线
+
+SouthwestChina.json -- 西南地区
+SouthwestChina_outline.json -- 西南地区轮廓线
